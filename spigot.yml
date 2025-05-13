@@ -93,7 +93,7 @@ world-settings:
     nerf-spawner-mobs: false
     simulation-distance: default
     item-despawn-rate: 6000
-    mob-spawn-range: 6
+    mob-spawn-range: 4
     thunder-chance: 100000
     entity-tracking-range:
       players: 48
